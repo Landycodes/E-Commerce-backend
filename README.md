@@ -8,7 +8,7 @@
   ## Installation instructions
  You can install this app by cloning the repository from github. Then in your code editor install the neccesary dependancies by typing 'npm install' in your terminal, after that you will need to use Mysql to create the database that will be storing our store information. Once that is done exit Mysql and type 'npm start' to run the server.
  
- ## [Link to demo video]()
+ ## [Link to demo video](https://drive.google.com/file/d/164l8_IQ1hmtUy9is6ARwNKYdBzlpVAjb/view)
  
  ![image](https://drive.google.com/uc?export=view&id=1mIGL2o0l05TRcPvOxaxBbukpQiNy0q6e)
  
